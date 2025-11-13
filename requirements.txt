@@ -1,0 +1,7 @@
+streamlit
+soundfile
+openai
+requests
+python-dotenv
+streamlit-mic-recorder
+pydub

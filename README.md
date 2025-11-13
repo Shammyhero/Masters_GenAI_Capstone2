@@ -13,10 +13,10 @@ Turn your voice into pictures! Just speak what you want to see, and the app will
 ## Screenshots
 
 ### Step 1: Record Your Voice
-![Voice Recording Screen](assets/screenshots/recording_screen.png)
+![Voice Recording Screen](assets/screenshots/snip1.png)
 
 ### Step 2: See Your Image
-![Generated Image](assets/screenshots/generated_image.png)
+![Generated Image](assets/screenshots/snip2.png)
 
 ## Getting Started
 
